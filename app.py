@@ -110,5 +110,5 @@ if uploaded_file:
 
 #Footer
 st.markdown("---")
-st.markdown("""<p style= 'text-align: center;' >Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by <a href="https://www.linkedin.com/in/maxjohnson-1209//"  target="_blank" style='text-decoration: none; color: #FFFFF8'><b>Max Johnson</b></a></p>""", unsafe_allow_html=True)
+st.markdown("""<p style= 'text-align: center;' >Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by <a href="https://www.linkedin.com/in/maxjohnson-1209//"  target="_blank" style='text-decoration: none; color: ##000000'><b>Max Johnson</b></a></p>""", unsafe_allow_html=True)
 
