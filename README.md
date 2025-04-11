@@ -45,7 +45,7 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
 | **Environment Config** | `.env` for API key security    |  
 
 ---
-
+![image](https://github.com/Max1209-johnson/AI-Resume-Analyzer/blob/main/Image.jpg)s
 ## 📊 **How It Works**
 
 1. **Resume Parsing**  
@@ -62,6 +62,7 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
 ---
 
 ![image](Image.jpg)
+
 
 
 Developed By: Max Johnson
