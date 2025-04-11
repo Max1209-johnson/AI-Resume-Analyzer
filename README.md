@@ -63,6 +63,4 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
 
 ![image](Image.jpg)
 
-##![image](https://github.com/Max1209-johnson/AI-Resume-Analyzer/blob/main/Image.jpg)ss
-
 Developed By: Max Johnson
